@@ -1,0 +1,46 @@
+.logo
+{
+    text-align: center;
+    padding: 2.6rem 1rem;
+    /* using scope function we can set width and height
+    img{
+        width:23px;
+        }
+    */
+}
+.mat-icon
+{
+    vertical-align: center;
+    margin-left: 1rem;
+}
+.mat-divider
+{
+    border-top-width: 10px;
+    border-color:rgb(243, 232, 197)
+}
+.mat-list-item
+{
+    color:rgb(213, 241, 241);
+    
+     
+}
+.mat-list-item-content
+{
+    border-radius: 5px;
+    margin:7px;
+}
+
+
+.mat-list-item:hover
+{
+    color: rgb(116, 255, 2);
+    background-color: rgb(134, 177, 241);
+    opacity: .5;
+}
+.mat-subheader
+{
+    color: antiquewhite;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
